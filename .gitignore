@@ -1,0 +1,7 @@
+.senha
+build.py
+_plain.html
+_enc/
+.DS_Store
+.staticrypt.json
+.repo
